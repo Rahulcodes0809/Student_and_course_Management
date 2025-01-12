@@ -104,7 +104,7 @@ src/main/java/com/lbs/studentmanagementapp
 If you have any questions or suggestions, feel free to reach out:
 
 - GitHub: (https://github.com/Rahulcodes0809)
-- Email: (mailto\:Kamblerahul0809@gmail.com)
+- Email: (Kamblerahul0809@gmail.com)
 
 
 
